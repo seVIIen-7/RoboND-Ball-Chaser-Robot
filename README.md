@@ -31,6 +31,7 @@ $ source devel/setup.bash
 $ roslaunch ball_chaser ball_chaser.launch
 ```
 Put the white ball inside the robot view.
+
 ![gazebo](https://github.com/seVIIen-7/RoboND-Ball-Chaser-Robot/blob/master/Simulation%20in%20Gazebo.png)
 
 ![RViz](https://github.com/seVIIen-7/RoboND-Ball-Chaser-Robot/blob/master/Simulation%20in%20RViz.png)
